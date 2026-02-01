@@ -15,3 +15,5 @@ Değer Odaklı Planlama (ROI): Geliştirilen "Ödeme Sistemleri" ve "Arama Deney
 
 
 Önceliklendirme Analizi: İş kalemlerini Priority (Öncelik) seviyelerine göre sınıflandırarak, kısıtlı zamanın en yüksek katma değere sahip işlere odaklanmasını sağlayacak bir yapı kurguladım.
+
+Teknik Detaylar: 🛠️ Power BI & DAX 📊 JIRA İş Listesi & Satış Verisi Entegrasyonu 📈 ROI (Yatırım Getirisi) Analizi
